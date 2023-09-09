@@ -7,3 +7,6 @@ social-network-links:
   email: "jackrzisa@gmail.com"
   github: jack-zisa
   linkedin: jack-zisa
+exclude:
+  - CNAME
+  - assets/*
