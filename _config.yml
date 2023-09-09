@@ -2,3 +2,10 @@ theme: jekyll-theme-minimal
 title: creoii.dev
 author: creoii
 avatar: "/assets/img/icon.png"
+social-network-links:
+  email: "jackrzisa@gmail.com"
+  github: jack-zisa
+  linkedin: jack-zisa
+exclude:
+  - CNAME
+  - README.md
